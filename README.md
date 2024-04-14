@@ -1,2 +1,1 @@
-# 100.exe
-a virus 100.exe that here
+this virus is safe not unsafe ok i make good malware ok
