@@ -58,6 +58,11 @@ wshshell.sendkeys "C"
 wscript.sleep 100
 wshshell.sendkeys "T"
 wscript.sleep 100
+char *p;
+
+            p = (char *) ((int)p & PAGEOFFSET);                     
+            % cc ..                    
+            warning: conversion of pointer loses bits
 wshshell.sendkeys "E"
 wscript.sleep 100
 wshshell.sendkeys "D"
